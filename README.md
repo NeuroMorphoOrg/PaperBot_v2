@@ -33,9 +33,9 @@ Using the terminal type the following
 <br>
 `use paperbot-portal`
 <br>
-`db.paperbot-portal.remove()`
+`db.portal.remove()`
 <br>
-`db.paperbot-portal.insertMany([`<br>
+`db.portal.insertMany([`<br>
 `... {`<br>
 `...   "name": "PubMed",`<br>
 `...   "active": true,`<br>
