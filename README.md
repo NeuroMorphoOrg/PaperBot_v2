@@ -33,7 +33,7 @@ Using the terminal type the following
 <br>
 `use paperbot-portal`
 <br>
-`db.portal.remove()`
+`db.portal.remove({})`
 <br>
 `db.portal.insertMany([`<br>
 `... {`<br>
