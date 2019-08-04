@@ -31,11 +31,11 @@ Using the terminal type the following
 <br>
 `mongo`
 <br>
-`use portal`
+`use paperbot-portal`
 <br>
-`db.portal.remove()`
+`db.paperbot-portal.remove()`
 <br>
-`db.portal.insertMany([`<br>
+`db.paperbot-portal.insertMany([`<br>
 `... {`<br>
 `...   "name": "PubMed",`<br>
 `...   "active": true,`<br>
