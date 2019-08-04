@@ -46,7 +46,7 @@ Using the terminal type the following
 `... {`<br>
 `...   "name": "PubMedCentral",`<br>
 `...   "active": true,`<br>
-`...   "db": "pmc"`<br>
+`...   "db": "pmc",`<br>
 `...   "searchUrlApi": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils"`<br>
 `...   "startSearchDate": new Date("2019-01-01T01:00:00+0100")`<br>
 `... },`<br>
